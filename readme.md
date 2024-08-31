@@ -1,4 +1,3 @@
-<p align="left"><img src="https://rahulvijayam.com/wp-content/uploads/2021/11/1-2-1024x576.jpg" alt="Laravel Ecommerce Project " width="500"></p>
 
  
 
